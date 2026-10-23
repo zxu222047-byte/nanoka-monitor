@@ -1,0 +1,10 @@
+{
+  "confirmations": 2,
+  "watch_elation_characters": true,
+  "extra_ids": {
+    "character": [1511],
+    "lightcone": [],
+    "relicset": [],
+    "monster": []
+  }
+}
