@@ -22,7 +22,7 @@
       "relicset": "遗器/饰品目录"
     },
     "records": {
-      "character": "3197f207f59ce72f61ecf29e4a7582b441cac2a44a1c240787789a5742194a39",
+      "character": "aee85d2ee9068c0baf0b9a11298867a03b9c27e719192ffd22cd899053660ab0",
       "character/1501": "15acdce6f2162bc9904f8a923f12ab24f627da288375047e93862981d311fec7",
       "character/1502": "8dc26ff4f361df5f75663f6a4e6a30d06a54bfb9a41ff32a6bad8c923896f49b",
       "character/1503": "5bddc126968e5efd5ab2d5bb4595ccbf10fe5e20f975a4c6d4aee3820a5474d1",
@@ -30,22 +30,19 @@
       "character/1506": "f8247113e69afaaf3cc120ab191a682be4921d3ee506911b0e6e753006fe50c4",
       "character/1511": "cbb0c32951f8adabd7da101fb38100e7d07b4995722655e2f45ae1a4d973e069",
       "character/1513": "2435a23cba3ac06b8277ce47472f06f8d35ac0dcccc5e04eea8dc4512aeacc0b",
-      "character/1514": "3cda8a21a12c791bf29000baffd882f545c491158fdd978389f5535527a8348b",
-      "character/1515": "649ba25bb2c357d19adb972e99f687a6503b37e0896529fc9130b7dba23613a8",
+      "character/1514": "a6dabbd93808e3b9bc6a5cbbe64f017196715961eb1e08fe502e503bc10b3f8d",
+      "character/1515": "11cba3fe2fc26acceff82f4a579396e01d29a1c2b99f19e138a1edb60d7d50a2",
       "character/8009": "fa36c4ad22d1a128506d4f4366712f44236079d77eebe3a6a2627c261e055826",
       "character/8010": "f53bb8edca27ed3cf5e90a7b96065483020c04190189a907ee4efe1a78faec8c",
       "lightcone": "850139ebc4c4c2c0d2cb4345aba413322b3e129970767aa159195309892416b7",
       "lightcone/23066": "d96dca9194973e5ecbb3f32e1b7a09556e30da2308bb6bd8134b9e2e4c7cd9e4",
       "lightcone/23067": "47a80f7c066d8babb96c585d13e490d1ce6bb325b5aa36e5b127cbae7d592807",
-      "manifest": "25554f26069e6a6ed8fec3006d3bfc7af5d88bcb38cc251982564b2d076ccd37",
+      "manifest": "457fbe4279f6d119033a9885623937feedf803dbe2c187498ad4e044214f40e9",
       "monster": "d29ab9b6d572ad33257c7fbfa43c56d3d094e2fe9a77c785caa0a5c033fb10a9",
       "monster/5034014": "0a4c43898fec230fcc4e91587c132cd3b69f63fa2533bb90675d96a0e093f430",
       "relicset": "8bf01ce0a6c3760bbf80644ee2b76aeea6e1605345280f29fe9c7d3fff84a61f"
     },
-    "version": "4.7.51"
+    "version": "4.7.52"
   },
-  "candidate": {
-    "count": 1,
-    "fingerprint": "3b1380c73a231bd66d44b40e51ce55614ef75ae04b4ae02ae5b90e4e5925fb8f"
-  }
+  "candidate": null
 }
