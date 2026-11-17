@@ -44,5 +44,8 @@
     },
     "version": "4.7.51"
   },
-  "candidate": null
+  "candidate": {
+    "count": 1,
+    "fingerprint": "3b1380c73a231bd66d44b40e51ce55614ef75ae04b4ae02ae5b90e4e5925fb8f"
+  }
 }
