@@ -22,30 +22,27 @@
       "relicset": "遗器/饰品目录"
     },
     "records": {
-      "character": "aee85d2ee9068c0baf0b9a11298867a03b9c27e719192ffd22cd899053660ab0",
+      "character": "2b66a819fd88a9ade7aa452facd8186abe72b27f56b1de2772594200dd82fa52",
       "character/1501": "15acdce6f2162bc9904f8a923f12ab24f627da288375047e93862981d311fec7",
       "character/1502": "8dc26ff4f361df5f75663f6a4e6a30d06a54bfb9a41ff32a6bad8c923896f49b",
       "character/1503": "5bddc126968e5efd5ab2d5bb4595ccbf10fe5e20f975a4c6d4aee3820a5474d1",
       "character/1505": "850b7a47fd97f396b3b8410e9c15a5d404d5385de8ff9016d79f56eac7ccbcca",
       "character/1506": "f8247113e69afaaf3cc120ab191a682be4921d3ee506911b0e6e753006fe50c4",
-      "character/1511": "cbb0c32951f8adabd7da101fb38100e7d07b4995722655e2f45ae1a4d973e069",
+      "character/1511": "3bfa217dfd8baef68b4740d83109e7539746e468471bc78c897db7ed234cd78e",
       "character/1513": "2435a23cba3ac06b8277ce47472f06f8d35ac0dcccc5e04eea8dc4512aeacc0b",
-      "character/1514": "a6dabbd93808e3b9bc6a5cbbe64f017196715961eb1e08fe502e503bc10b3f8d",
-      "character/1515": "11cba3fe2fc26acceff82f4a579396e01d29a1c2b99f19e138a1edb60d7d50a2",
+      "character/1514": "6951d10652062b7a94a222dd1af078282c7ca7d2b39beb7c72d9e5655641bbef",
+      "character/1515": "cc62e071598fd594f29e5858a5014b8f72a435fcf246e5ec478ed5f6902b1b20",
       "character/8009": "fa36c4ad22d1a128506d4f4366712f44236079d77eebe3a6a2627c261e055826",
       "character/8010": "f53bb8edca27ed3cf5e90a7b96065483020c04190189a907ee4efe1a78faec8c",
-      "lightcone": "850139ebc4c4c2c0d2cb4345aba413322b3e129970767aa159195309892416b7",
-      "lightcone/23066": "d96dca9194973e5ecbb3f32e1b7a09556e30da2308bb6bd8134b9e2e4c7cd9e4",
-      "lightcone/23067": "47a80f7c066d8babb96c585d13e490d1ce6bb325b5aa36e5b127cbae7d592807",
-      "manifest": "457fbe4279f6d119033a9885623937feedf803dbe2c187498ad4e044214f40e9",
+      "lightcone": "45bd1d6213ac35cdc8ec5f9ddd6fbf29cfee709b596bdf0b7414a6b0212e252c",
+      "lightcone/23066": "8e21d9709cefe21dfa81ab1f6b88f9567db5393719497910e3cc358ee7e595dc",
+      "lightcone/23067": "5a3b8b18bbc71e2d4a18c50e67b6c03ba90bae74024756c4d90b86052ffebf0c",
+      "manifest": "af6252c2030c37f8635726d834da772fe23fbf11caee5fac9d5f2e5e78343627",
       "monster": "d29ab9b6d572ad33257c7fbfa43c56d3d094e2fe9a77c785caa0a5c033fb10a9",
-      "monster/5034014": "0a4c43898fec230fcc4e91587c132cd3b69f63fa2533bb90675d96a0e093f430",
+      "monster/5034014": "a049e47f454db290e267f1009375fa9147896407b8eb918ac309b8b3167739d2",
       "relicset": "8bf01ce0a6c3760bbf80644ee2b76aeea6e1605345280f29fe9c7d3fff84a61f"
     },
-    "version": "4.7.52"
+    "version": "4.7.53"
   },
-  "candidate": {
-    "count": 1,
-    "fingerprint": "d62ce4e6702eb2bad451a664582c6950ab970924b06419116f4fbca9ee9d0685"
-  }
+  "candidate": null
 }
